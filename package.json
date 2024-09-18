@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/motherduckdb/duckdb-async.git"
+    "url": "git+https://github.com/jtomlin12/duckdb-async.git"
   },
   "keywords": [
     "duckdb",
@@ -21,9 +21,9 @@
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/motherduckdb/duckdb-async/issues"
+    "url": "https://github.com/jtomlin12/duckdb-async/issues"
   },
-  "homepage": "https://github.com/motherduckdb/duckdb-async#readme",
+  "homepage": "https://github.com/jtomlin12/duckdb-async#readme",
   "dependencies": {
     "duckdb": "1.1.0"
   },
